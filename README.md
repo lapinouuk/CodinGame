@@ -1,1 +1,3 @@
 # CodinGame
+All games I took part of on CodinGame are gathered here !
+Hope it mights help someone stuck someday...
